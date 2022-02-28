@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828681122496",
+    "project_id": "unitrack2",
+    "storage_bucket": "unitrack2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828681122496:android:e9af91b60e5b3ffb14b325",
+        "android_client_info": {
+          "package_name": "com.example.unitrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828681122496-fg4culseqc01rcmfjtook0fj931u1uef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCPYL1KHMlCpx2DLVwmDH1TjUr4q9MXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828681122496-fg4culseqc01rcmfjtook0fj931u1uef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
